@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: url(images/snakeBg.png);
+}
+
+canvas {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
